@@ -1080,3 +1080,7 @@
 {"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
 {"message":"Listening on port 0...","level":"info"}
 {"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
