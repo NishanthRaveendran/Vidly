@@ -1,3 +1,3 @@
 # Vidly
-Project for "Node.js: The Complete Guide to Build RESTful APIs"
+Project for "Node.js: The Complete Guide to Build RESTful APIs".
 
