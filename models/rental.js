@@ -1,3 +1,4 @@
+// Rental model
 const Joi = require('joi');
 const mongoose = require('mongoose');
 const moment = require('moment');

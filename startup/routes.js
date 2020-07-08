@@ -1,3 +1,4 @@
+// All routes in use by app
 const express = require('express');
 const genres = require('../routes/genres');
 const customers = require('../routes/customers');
